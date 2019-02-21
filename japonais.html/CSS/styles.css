@@ -1,0 +1,29 @@
+
+h1{
+    font-family: comic sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+h5{
+    font-family: comic sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+
+}
+
+p{
+    font-family: comic sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    width: 18 px;    
+    text-align: justify;
+    margin-left:160px;
+    margin-right:160px;
+
+}
+
+img{
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+}
