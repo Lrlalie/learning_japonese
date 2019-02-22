@@ -1,7 +1,11 @@
 # learning_japonese
 ---
+## Description
 * It is only a trial of html and forms' training
 ---
+## Main fonctionnalities
+* Introduce the theme and create a form to retrieve customers' selection.
+* It will be evoluate
 
 ## Contributors
 
