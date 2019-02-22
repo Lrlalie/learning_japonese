@@ -8,14 +8,12 @@
 * Laurence REYNIER
 ---
 
-
-## Licence and copyright
-
-### Copyright
+## Copyright
 * Copyright © Laurence REYNIER 2019 
 * Photo is open source 
+---
 
-### Licence MIT
+## Licence MIT
 Permission is hereby granted, free of charge, to any person obtaining a copy
 
 of this software and associated documentation files (the "Software"), to deal
