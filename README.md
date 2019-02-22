@@ -16,7 +16,6 @@
 
 ## Copyright
 * Copyright © Laurence REYNIER 2019 
-* Photo is open source 
 ---
 
 ## Licence MIT
